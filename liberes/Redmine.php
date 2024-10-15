@@ -2,7 +2,7 @@
 class Redmine {
 
     public static $login = 'bot';
-    public static $password = 'fVVaL621lN9R';
+    public static $password = '*******';
     public static $ip = "85.209.11.253";
 
     private $cache = null;
